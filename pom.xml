@@ -34,7 +34,7 @@
             <!--<scope>provided</scope>-->
         </dependency>
 
-        <!--这是现在写的-->
+        <!--这是现在写的,我现在在GitHub上改的-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
