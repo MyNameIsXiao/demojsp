@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class UserConfig {
 
-     //大声道你好
+     //我是init。
 
     @Bean
     public User init() {

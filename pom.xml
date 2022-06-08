@@ -27,7 +27,7 @@
             <artifactId>jstl</artifactId>
         </dependency>
 
-        <!--用于编译jsp-->
+        <!--用于编译jsp，现在写得-->
         <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-jasper</artifactId>
